@@ -21,3 +21,15 @@ It calculates the average grades for each course and computes a GPA on a 4.0 sca
 3. Compile and run `Main.java`
 
 ##  Example Output
+======================================
+ Student: Ashfaqul
+======================================
+
+ Enrolled Courses:
+- SYSC 2004: Object-Oriented Programming (2 assignments)
+- SYSC 2100: Data Structures and Algorithms (2 assignments)
+
+======================================
+ GPA (4.0 Scale): 3.30
+ Letter Grade: B+
+======================================
