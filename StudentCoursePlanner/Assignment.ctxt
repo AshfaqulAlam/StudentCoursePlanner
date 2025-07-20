@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Assignment
+comment0.text=\r\n\ \r\n\ Represents\ a\ single\ assignment\ with\ a\ title,\ due\ date,\ and\ grade.\r\n\r\n\ @author\ Ashfaqul\ Alam\r\n\ @version\ 1.0\r\n
+comment1.params=title\ dueDate\ grade
+comment1.target=Assignment(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ to\ initialize\ an\ assignment\r\n
+comment2.params=
+comment2.target=int\ getGrade()
+comment2.text=\r\n\ \r\n\ Returns\ the\ grade\ of\ the\ assignment\r\n\r\n\ \r\n\ @return\ grade\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment3.text=\r\n\ \r\n\ Returns\ the\ title\ of\ the\ assignment\r\n\r\n\ \r\n\ @return\ title\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ \r\n\ toString\ method\ to\ write\ the\ representation\ of\ the\ assignment\ details.\r\n\ \r\n\ @return\ string\ represenation\ of\ students\ grade.\ \r\n
+numComments=5
