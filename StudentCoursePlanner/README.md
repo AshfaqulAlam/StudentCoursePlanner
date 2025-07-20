@@ -22,7 +22,9 @@ It calculates the average grades for each course and computes a GPA on a 4.0 sca
 
 ##  Example Output
 ======================================
- Student: Ashfaqul
+
+Student: Ashfaqul
+ 
 ======================================
 
  Enrolled Courses:
@@ -30,6 +32,8 @@ It calculates the average grades for each course and computes a GPA on a 4.0 sca
 - SYSC 2100: Data Structures and Algorithms (2 assignments)
 
 ======================================
- GPA (4.0 Scale): 3.30
- Letter Grade: B+
+- GPA = 3.30
+- Letter Grade = B+
+  
 ======================================
+
